@@ -1,6 +1,8 @@
 # Chat Room
 This project was created based on tutorial and codes from the open sources and doesnt pretend to be unique. 
+
 As first step was created server of the application.
+
 Secondly defined clients. 
 
 Down below you can see how two people can chat using cmd on the local server. 
